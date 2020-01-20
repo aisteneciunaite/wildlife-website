@@ -1,0 +1,16 @@
+// font and font sizes
+:root {
+    --x-largest: 90px;
+    --x-larger: 70px;
+    --x-large: 55px;
+    --large: 30px;
+    --medium: 16px;
+    --small: 14px;
+    --x-small: 12px;
+    /* some larger fonts exist on home page */    
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    // font-family: 'Roboto Condensed', sans-serif;
+}

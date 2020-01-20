@@ -1,0 +1,59 @@
+// index page layout
+
+#index {
+    .hero {
+        height: 600px;
+        background-image: url('images/leopard_1900x800.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-attachment: fixed;  //read about css paralax
+        display: grid;
+        grid-template-columns: 141px auto;
+        grid-template-rows: min-content min-content min-content min-content 1fr;
+        position: relative;
+        margin-bottom: 76px;
+
+        >:nth-child(1){
+            grid-column-start: 2;
+            grid-row-start: 1;
+        }
+        >:nth-child(2){
+            grid-column-start: 2;
+            grid-row-start: 2;
+        }
+        >:nth-child(3){
+            grid-column-start: 2;
+            grid-row-start: 3;
+        }
+
+        h1 {
+            font-size: 120px;
+            font-weight: 800;
+            &::before {
+                content: "";
+                display: inline-block;
+                height: 30px;
+                width: 141px;
+                position: absolute;
+                background-color: var(--color1);
+                top: 68px;
+            }
+        }
+
+        p {
+            width: 353px;
+            min-height: 96px;
+        }
+
+        a {
+            height: 76px;
+            width: 469px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            bottom: 0;
+            transform: translateY(50%);
+        }
+    }
+}
