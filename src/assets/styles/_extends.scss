@@ -1,0 +1,45 @@
+%flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+%flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+%link-button {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 100px;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: .3s ease-in-out;
+}
+
+
+.btn-link-light {
+    @extend %link-button;
+    border: 1px solid var(--light);
+    color: var(--light);
+    
+    &:hover {
+        background-color: var(--light);
+        color: var(--dark);
+    }  
+}
+
+.btn-link-dark {
+    @extend %link-button;
+    border: 1px solid var(--dark);
+    color: var(--dark);
+
+    &:hover {
+        background-color: var(--dark);
+        color: var(--light);
+    }
+}

@@ -20,6 +20,7 @@ body {
     text-decoration: none;
     color: inherit;
     cursor: pointer;
+    transition: .3s ease-in-out;
 }
 
 .bkg1 {
@@ -50,4 +51,12 @@ body {
     background-color: rgb(226, 230, 233);
     padding-top: var(--header-height);
     margin: 0;
+}
+
+.col {
+    @extend %flex-col;
+}
+
+.row {
+    @extend %flex-row;
 }

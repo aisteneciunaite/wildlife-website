@@ -1,16 +1,38 @@
-// font and font sizes
-:root {
-    --x-largest: 90px;
-    --x-larger: 70px;
-    --x-large: 55px;
-    --large: 30px;
-    --medium: 16px;
-    --small: 14px;
-    --x-small: 12px;
-    /* some larger fonts exist on home page */    
-}
+:root {font-size: 100%;} /*16px*/
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    // font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  line-height: 1.65;
 }
+
+p {margin-bottom: 1.15rem;}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1.05rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 1em;
+  font-size: 7.594em;
+  font-weight: 800;
+}
+
+h2 {font-size: 5.063em;}
+h3 {font-size: 3.375em;}
+h4 {font-size: 2.25em;}
+h5 {font-size: 1.1em;}
+
+small, .text_small {font-size: 0.667em;}
+
+.fs-7x {font-size: 7rem;}
+.fs-2x {font-size: 2rem;}
+.fs-09x {font-size: .9rem;}
+.fs-08x {font-size: .8rem;}
+
+.fw-8 {font-weight: 800;}
+.fw-6 {font-weight: 600;}
+.fw-2 {font-weight: 200;}
