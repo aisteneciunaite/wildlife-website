@@ -28,7 +28,7 @@ h5 {font-size: 1.1em;}
 
 small, .text_small {font-size: 0.667em;}
 
-.fs-7x {font-size: 7rem;}
+.fs-xlg {font-size: 7rem;}
 .fs-2x {font-size: 2rem;}
 .fs-09x {font-size: .9rem;}
 .fs-08x {font-size: .8rem;}
@@ -36,3 +36,18 @@ small, .text_small {font-size: 0.667em;}
 .fw-8 {font-weight: 800;}
 .fw-6 {font-weight: 600;}
 .fw-2 {font-weight: 200;}
+
+@media (max-width: $break-point1) {
+  h1 {font-size: 4rem}
+  h2 {font-size: 3rem}
+  .fs-xlg {font-size: 3rem}
+}
+
+@media (max-width: $break-point3) {
+  h2 {font-size: 2rem; font-weight: 600}
+}
+
+// @media (max-width: $break-point2){
+//   h2 {font-size: 4rem}
+//   .fs-xlg {font-size: 3rem}
+// }

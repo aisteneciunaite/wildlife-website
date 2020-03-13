@@ -1,0 +1,97 @@
+#take-action {
+    .hero {
+        background-image: url('../images/climate-road-landscape-people-1920x1280.jpg');
+    }
+
+    .projects {
+        @extend %flex-row;
+        justify-content: center;
+        padding: 3rem 0;
+
+        &__container {
+            max-width: $content-frame;
+            padding: 20px;
+        }
+
+        &__wrapper {
+            @extend %flex-row;
+            flex-wrap: wrap;
+            align-items: stretch;
+            justify-content: space-between;
+            margin-bottom: 40px;
+        }
+
+        &__tile {
+            flex: 0 0 292px;
+            margin: 10px;
+        }
+
+        h2 {
+            font-size: 55px;
+            font-weight: 800;
+            margin-top: 0;
+        }
+
+        h3 {
+            margin: 10px 0;
+            font-size: 30px;
+            font-weight: 800;
+            color: $color1;
+        }
+
+        p {
+            font-weight: 200;
+            font-size: 14px;
+            max-width: 460px;
+        }     
+    }
+
+    .signup {
+        @extend %flex-row;
+        justify-content: center;
+        padding: 3rem 0;
+
+        h2 {
+            font-size: 55px;
+            font-weight: 800;
+            margin-top: 0;
+        }
+        p {
+            font-weight: 200;
+            font-size: 14px;
+            max-width: 460px;
+        }
+
+        input[type=text], input[type=email], input[type=tel] {
+            @extend %form-input-light;
+        }
+
+        input[type=submit] {
+            @extend %form-submit-light;
+        }
+        
+        @extend %custom-radio;
+        
+
+        &__container {
+            max-width: $content-frame;
+            padding: 50px;
+            flex-grow: 1;
+            border: 1px solid black;
+        }
+
+        &__wrapper {
+            @extend %flex-row;
+            justify-content: space-between;
+        }
+
+        &__content {
+            @extend %flex-col;
+            flex: 1 1 50%;
+            max-width: 350px;
+        }
+
+
+        
+    }
+}

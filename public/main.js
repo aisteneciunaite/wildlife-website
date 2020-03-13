@@ -396,6 +396,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/assets/icons/favorite_border-24px.svg":
+/*!***************************************************!*\
+  !*** ./src/assets/icons/favorite_border-24px.svg ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/favorite_border-24px.svg\");\n\n//# sourceURL=webpack:///./src/assets/icons/favorite_border-24px.svg?");
+
+/***/ }),
+
 /***/ "./src/assets/icons/instagram.svg":
 /*!****************************************!*\
   !*** ./src/assets/icons/instagram.svg ***!
@@ -444,111 +456,279 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
-/***/ "./src/assets/images/badger_cropped.webp":
-/*!***********************************************!*\
-  !*** ./src/assets/images/badger_cropped.webp ***!
-  \***********************************************/
+/***/ "./src/assets/images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg":
+/*!*******************************************************************************************!*\
+  !*** ./src/assets/images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/badger_cropped.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/badger_cropped.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/badger_full.webp":
-/*!********************************************!*\
-  !*** ./src/assets/images/badger_full.webp ***!
-  \********************************************/
+/***/ "./src/assets/images/animal-animal-photography-big-big-cat-640x456.jpg":
+/*!*****************************************************************************!*\
+  !*** ./src/assets/images/animal-animal-photography-big-big-cat-640x456.jpg ***!
+  \*****************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/badger_full.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/badger_full.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/animal-animal-photography-big-big-cat-640x456.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/animal-animal-photography-big-big-cat-640x456.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/elephants_454x883.webp":
-/*!**************************************************!*\
-  !*** ./src/assets/images/elephants_454x883.webp ***!
-  \**************************************************/
+/***/ "./src/assets/images/bamboo-tree-during-daytime-1280x1704.jpg":
+/*!********************************************************************!*\
+  !*** ./src/assets/images/bamboo-tree-during-daytime-1280x1704.jpg ***!
+  \********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/elephants_454x883.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/elephants_454x883.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/bamboo-tree-during-daytime-1280x1704.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/bamboo-tree-during-daytime-1280x1704.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/elephants_704x480.webp":
-/*!**************************************************!*\
-  !*** ./src/assets/images/elephants_704x480.webp ***!
-  \**************************************************/
+/***/ "./src/assets/images/beach-birds-calm-clouds-1920x1270.jpg":
+/*!*****************************************************************!*\
+  !*** ./src/assets/images/beach-birds-calm-clouds-1920x1270.jpg ***!
+  \*****************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/elephants_704x480.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/elephants_704x480.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/beach-birds-calm-clouds-1920x1270.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/beach-birds-calm-clouds-1920x1270.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/leopard_1225x883.webp":
+/***/ "./src/assets/images/bird-s-eye-view-of-woodpile-1280x853.jpg":
+/*!********************************************************************!*\
+  !*** ./src/assets/images/bird-s-eye-view-of-woodpile-1280x853.jpg ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/bird-s-eye-view-of-woodpile-1280x853.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/bird-s-eye-view-of-woodpile-1280x853.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/black-chimpanzee-smiling-1280x1769.jpg":
+/*!******************************************************************!*\
+  !*** ./src/assets/images/black-chimpanzee-smiling-1280x1769.jpg ***!
+  \******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/black-chimpanzee-smiling-1280x1769.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/black-chimpanzee-smiling-1280x1769.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/brown-kangaroo-near-tree-1280x1828.jpg":
+/*!******************************************************************!*\
+  !*** ./src/assets/images/brown-kangaroo-near-tree-1280x1828.jpg ***!
+  \******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/brown-kangaroo-near-tree-1280x1828.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/brown-kangaroo-near-tree-1280x1828.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/burn-fog-forest-forest-fire-1280x720.jpg":
+/*!********************************************************************!*\
+  !*** ./src/assets/images/burn-fog-forest-forest-fire-1280x720.jpg ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/burn-fog-forest-forest-fire-1280x720.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/burn-fog-forest-forest-fire-1280x720.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/climate-road-landscape-people-1920x1280.jpg":
+/*!***********************************************************************!*\
+  !*** ./src/assets/images/climate-road-landscape-people-1920x1280.jpg ***!
+  \***********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/climate-road-landscape-people-1920x1280.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/climate-road-landscape-people-1920x1280.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/close-up-photo-of-plastic-bottle-2409022.jpg":
+/*!************************************************************************!*\
+  !*** ./src/assets/images/close-up-photo-of-plastic-bottle-2409022.jpg ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/close-up-photo-of-plastic-bottle-2409022.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/close-up-photo-of-plastic-bottle-2409022.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg":
+/*!***************************************************************************************!*\
+  !*** ./src/assets/images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg ***!
+  \***************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/gray-elephants-1920x1222.jpg":
+/*!********************************************************!*\
+  !*** ./src/assets/images/gray-elephants-1920x1222.jpg ***!
+  \********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/gray-elephants-1920x1222.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/gray-elephants-1920x1222.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg":
+/*!**********************************************************************************!*\
+  !*** ./src/assets/images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg ***!
+  \**********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/icebergs-1280x960.jpg":
 /*!*************************************************!*\
-  !*** ./src/assets/images/leopard_1225x883.webp ***!
+  !*** ./src/assets/images/icebergs-1280x960.jpg ***!
   \*************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/leopard_1225x883.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/leopard_1225x883.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/icebergs-1280x960.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/icebergs-1280x960.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/leopard_1900x800.webp":
-/*!*************************************************!*\
-  !*** ./src/assets/images/leopard_1900x800.webp ***!
-  \*************************************************/
+/***/ "./src/assets/images/leopard-lying-on-a-log-1920x1280.jpg":
+/*!****************************************************************!*\
+  !*** ./src/assets/images/leopard-lying-on-a-log-1920x1280.jpg ***!
+  \****************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/leopard_1900x800.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/leopard_1900x800.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/leopard-lying-on-a-log-1920x1280.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/leopard-lying-on-a-log-1920x1280.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/lions_491x960.webp":
-/*!**********************************************!*\
-  !*** ./src/assets/images/lions_491x960.webp ***!
-  \**********************************************/
+/***/ "./src/assets/images/man-with-rifle-1280x1923.jpg":
+/*!********************************************************!*\
+  !*** ./src/assets/images/man-with-rifle-1280x1923.jpg ***!
+  \********************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/lions_491x960.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/lions_491x960.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/man-with-rifle-1280x1923.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/man-with-rifle-1280x1923.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/lions_763x960.webp":
-/*!**********************************************!*\
-  !*** ./src/assets/images/lions_763x960.webp ***!
-  \**********************************************/
+/***/ "./src/assets/images/people-rallying-on-street-640x426.jpg":
+/*!*****************************************************************!*\
+  !*** ./src/assets/images/people-rallying-on-street-640x426.jpg ***!
+  \*****************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/lions_763x960.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/lions_763x960.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/people-rallying-on-street-640x426.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/people-rallying-on-street-640x426.jpg?");
 
 /***/ }),
 
-/***/ "./src/assets/images/protest_363x241.webp":
+/***/ "./src/assets/images/sand-desert-yellow-orange-1920x1022.jpg":
+/*!*******************************************************************!*\
+  !*** ./src/assets/images/sand-desert-yellow-orange-1920x1022.jpg ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/sand-desert-yellow-orange-1920x1022.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/sand-desert-yellow-orange-1920x1022.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/tigress-1280x587.jpg":
 /*!************************************************!*\
-  !*** ./src/assets/images/protest_363x241.webp ***!
+  !*** ./src/assets/images/tigress-1280x587.jpg ***!
   \************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/protest_363x241.webp\");\n\n//# sourceURL=webpack:///./src/assets/images/protest_363x241.webp?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/tigress-1280x587.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/tigress-1280x587.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/two-giraffe-standing-on-hill-1920x1280.jpg":
+/*!**********************************************************************!*\
+  !*** ./src/assets/images/two-giraffe-standing-on-hill-1920x1280.jpg ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/two-giraffe-standing-on-hill-1920x1280.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/two-giraffe-standing-on-hill-1920x1280.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/two-man-hiking-on-snow-mountain-1280x718.jpg":
+/*!************************************************************************!*\
+  !*** ./src/assets/images/two-man-hiking-on-snow-mountain-1280x718.jpg ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/two-man-hiking-on-snow-mountain-1280x718.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/two-man-hiking-on-snow-mountain-1280x718.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/view-of-elephant-in-water-1920x1309.jpg":
+/*!*******************************************************************!*\
+  !*** ./src/assets/images/view-of-elephant-in-water-1920x1309.jpg ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/view-of-elephant-in-water-1920x1309.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/view-of-elephant-in-water-1920x1309.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/wolf-1920x1280.jpg":
+/*!**********************************************!*\
+  !*** ./src/assets/images/wolf-1920x1280.jpg ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"../images/wolf-1920x1280.jpg\");\n\n//# sourceURL=webpack:///./src/assets/images/wolf-1920x1280.jpg?");
 
 /***/ }),
 
@@ -563,17 +743,6 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/
 
 /***/ }),
 
-/***/ "./src/index.hbs":
-/*!***********************!*\
-  !*** ./src/index.hbs ***!
-  \***********************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("var Handlebars = __webpack_require__(/*! ../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    var stack1;\n\n  return \"<!DOCTYPE html>\\r\\n<html lang=\\\"en\\\">\\r\\n<head>\\r\\n    <meta charset=\\\"UTF-8\\\">\\r\\n    <meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\">\\r\\n    <meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\">\\r\\n    <title>HOME</title>\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800,900&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link rel=\\\"stylesheet\\\" href=\\\"assets/styles/app.css\\\">\\r\\n    <!-- https://www.wix.com/demone2/wildlife-con -->\\r\\n    <!-- Mobile https://www.wix.com/website-template/view/html/2500 -->\\r\\n</head>\\r\\n<body id=\\\"index\\\">\\r\\n\"\n    + ((stack1 = container.invokePartial(__webpack_require__(/*! ./partials/header.hbs */ \"./src/partials/header.hbs\"),depth0,{\"name\":\"partials/header\",\"data\":data,\"helpers\":helpers,\"partials\":partials,\"decorators\":container.decorators})) != null ? stack1 : \"\")\n    + \"<main>\\r\\n    <section class=\\\"hero parallax\\\" id=\\\"hero\\\" data-type=\\\"background\\\" data-speed=\\\"5\\\">\\r\\n        <h1>PROTECT<br>OUR<span class=\\\"accent1\\\"> WILDLIFE</span></h1>\\r\\n        <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>\\r\\n        <a href=\\\"\\\" class=\\\"btn bkg-dark\\\">GET INVOLVED</a>\\r\\n    </section>\\r\\n    <section class=\\\"stats\\\">\\r\\n        <div class=\\\"stats__card\\\">\\r\\n            <p class=\\\"fs-2x\\\"><span class=\\\"fs-7x\\\">40K</span><br>Endangered Species</p>\\r\\n        </div>\\r\\n        <div class=\\\"stats__card\\\">\\r\\n            <p class=\\\"fs-2x\\\"><span class=\\\"fs-7x\\\">800</span><br>Volunteers</p>\\r\\n        </div>\\r\\n        <div class=\\\"stats__card\\\">\\r\\n            <p class=\\\"fs-2x\\\"><span class=\\\"fs-7x\\\">140</span><br>Conservation Programs</p>\\r\\n        </div>\\r\\n        <div class=\\\"stats__card\\\">\\r\\n            <p class=\\\"fs-2x\\\"><span class=\\\"fs-7x\\\">1</span><br>Earth for Us to Protect</p>\\r\\n        </div>\\r\\n    </section>\\r\\n    <section class=\\\"articles2\\\">\\r\\n        <div class=\\\"articles2__background1\\\"></div>\\r\\n        <div class=\\\"articles2__background2\\\"></div>\\r\\n        <div class=\\\"articles2__background3\\\"></div>\\r\\n        <article class=\\\"articles2__tile1 bkg-dark\\\">\\r\\n            <div>\\r\\n                <h3>About Last Chance</h3>\\r\\n                <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>\\r\\n                <a href=\\\"\\\" class=\\\"btn-link-light\\\">Learn More</a>\\r\\n            </div>\\r\\n        </article>\\r\\n        <article class=\\\"articles2__tile2 bkg3\\\">\\r\\n            <div>\\r\\n                <h3>Upcoming Projects to Fund</h3>\\r\\n                <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>\\r\\n                <a href=\\\"\\\" class=\\\"btn-link-light\\\">Support us</a>\\r\\n            </div>\\r\\n        </article>\\r\\n        <article class=\\\"bkg2 articles2__tile5\\\">\\r\\n            <div>\\r\\n                <h3>All the Latest Updates</h3>\\r\\n                <p>I'm a paragraph. Click here to add your own text and edit me. click “Edit Text” or double click me.</p>\\r\\n                <a href=\\\"\\\" class=\\\"btn-link-light\\\">Read Now</a>\\r\\n            </div>\\r\\n        </article>\\r\\n        <article class=\\\"wide bkg1 articles2__tile3\\\">\\r\\n            <div>\\r\\n                <h2>HOW YOU CAN HELP</h2>\\r\\n                <div class=\\\"row\\\">\\r\\n                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>\\r\\n                    <a href=\\\"\\\" class=\\\"btn-link-light\\\">Act Now</a>\\r\\n                </div>\\r\\n            </div>\\r\\n        </article>\\r\\n        <article class=\\\"bkg-dark articles2__tile4\\\">\\r\\n            <div>\\r\\n                <h3>Get to Know Us</h3>\\r\\n                <p>I'm a paragraph. Click here to add your own text and edit me. Just click “Edit Text”.</p>\\r\\n                <a href=\\\"\\\" class=\\\"btn-link-light\\\">Our Team</a>\\r\\n            </div>\\r\\n        </article>\\r\\n</section>\\r\\n    <section class=\\\"news\\\">\\r\\n        <div class=\\\"col\\\">\\r\\n            <h3 class=\\\"fw-8\\\">LATEST NEWS.</h3>\\r\\n            <div class=\\\"row\\\">\\r\\n                <div class=\\\"news__card\\\">\\r\\n                    <div class=\\\"news__card__content\\\">\\r\\n                        <h5 class=\\\"fw-8\\\">Earth Hour: What You Need to Know</h5>\\r\\n                        <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"news__card__footer\\\">\\r\\n                        <div class=\\\"footer__content\\\">\\r\\n                            <span class=\\\"views\\\">4</span>\\r\\n                            <span class=\\\"comment\\\">Write a comment</span>\\r\\n                            <div class=\\\"like\\\">\\r\\n                                <span>4</span>\\r\\n                                <img src=\\\"./assets/images/favorite_border-24px.svg\\\" alt=\\\"\\\">\\r\\n                            </div>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"news__card\\\">\\r\\n                    <img src=\\\"./assets/images/protest_363x241.webp\\\" alt=\\\"\\\">\\r\\n                    <div class=\\\"news__card__content\\\">\\r\\n                        <h5 class=\\\"fw-8\\\">Youth March for Climate …</h5>\\r\\n                    </div>\\r\\n                    <div class=\\\"news__card__footer\\\">\\r\\n                        <div class=\\\"footer__content\\\">\\r\\n                            <span class=\\\"views\\\">4</span>\\r\\n                            <span class=\\\"comment\\\">Write a comment</span>\\r\\n                            <div class=\\\"like\\\">\\r\\n                                <span>4</span>\\r\\n                                <img src=\\\"./assets/images/favorite_border-24px.svg\\\" alt=\\\"\\\">\\r\\n                            </div>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"news__card\\\">\\r\\n                    <div class=\\\"news__card__content\\\">\\r\\n                        <h5 class=\\\"fw-8\\\">Living Your Best Sustainable Life</h5>\\r\\n                        <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"news__card__footer\\\">\\r\\n                        <div class=\\\"footer__content\\\">\\r\\n                            <span class=\\\"views\\\">4</span>\\r\\n                            <span class=\\\"comment\\\">Write a comment</span>\\r\\n                            <div class=\\\"like\\\">\\r\\n                                <span>4</span>\\r\\n                                <img src=\\\"./assets/images/favorite_border-24px.svg\\\" alt=\\\"\\\">\\r\\n                            </div>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                </div>\\r\\n            </div>\\r\\n            <a href=\\\"\\\" class=\\\"btn-link-dark\\\">View more</a>\\r\\n        </div>\\r\\n    </section>\\r\\n</main>\\r\\n\"\n    + ((stack1 = container.invokePartial(__webpack_require__(/*! ./partials/footer.hbs */ \"./src/partials/footer.hbs\"),depth0,{\"name\":\"partials/footer\",\"data\":data,\"helpers\":helpers,\"partials\":partials,\"decorators\":container.decorators})) != null ? stack1 : \"\")\n    + \"</body>\\r\\n<script src=\\\"script.js\\\"></script>\\r\\n</html>\";\n},\"usePartial\":true,\"useData\":true});\n\n//# sourceURL=webpack:///./src/index.hbs?");
-
-/***/ }),
-
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
@@ -582,7 +751,7 @@ eval("var Handlebars = __webpack_require__(/*! ../node_modules/handlebars/runtim
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./assets/styles/app.scss */ \"./src/assets/styles/app.scss\");\n/* harmony import */ var _assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _assets_icons_emoji_nature_24px_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./assets/icons/emoji_nature-24px.svg */ \"./src/assets/icons/emoji_nature-24px.svg\");\n/* harmony import */ var _assets_icons_menu_24px_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/icons/menu-24px.svg */ \"./src/assets/icons/menu-24px.svg\");\n/* harmony import */ var _assets_images_badger_cropped_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/images/badger_cropped.webp */ \"./src/assets/images/badger_cropped.webp\");\n/* harmony import */ var _assets_images_badger_full_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/images/badger_full.webp */ \"./src/assets/images/badger_full.webp\");\n/* harmony import */ var _assets_images_elephants_454x883_webp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/images/elephants_454x883.webp */ \"./src/assets/images/elephants_454x883.webp\");\n/* harmony import */ var _assets_images_elephants_704x480_webp__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/images/elephants_704x480.webp */ \"./src/assets/images/elephants_704x480.webp\");\n/* harmony import */ var _assets_images_leopard_1225x883_webp__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/images/leopard_1225x883.webp */ \"./src/assets/images/leopard_1225x883.webp\");\n/* harmony import */ var _assets_images_leopard_1900x800_webp__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/images/leopard_1900x800.webp */ \"./src/assets/images/leopard_1900x800.webp\");\n/* harmony import */ var _assets_images_lions_491x960_webp__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./assets/images/lions_491x960.webp */ \"./src/assets/images/lions_491x960.webp\");\n/* harmony import */ var _assets_images_lions_763x960_webp__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./assets/images/lions_763x960.webp */ \"./src/assets/images/lions_763x960.webp\");\n/* harmony import */ var _assets_images_protest_363x241_webp__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/images/protest_363x241.webp */ \"./src/assets/images/protest_363x241.webp\");\n/* harmony import */ var _index_hbs__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./index.hbs */ \"./src/index.hbs\");\n/* harmony import */ var _index_hbs__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_index_hbs__WEBPACK_IMPORTED_MODULE_12__);\n/* harmony import */ var _assets_icons_eye_24px_svg__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./assets/icons/eye-24px.svg */ \"./src/assets/icons/eye-24px.svg\");\n/* harmony import */ var _assets_icons_facebook_svg__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./assets/icons/facebook.svg */ \"./src/assets/icons/facebook.svg\");\n/* harmony import */ var _assets_icons_twitter_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./assets/icons/twitter.svg */ \"./src/assets/icons/twitter.svg\");\n/* harmony import */ var _assets_icons_instagram_svg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./assets/icons/instagram.svg */ \"./src/assets/icons/instagram.svg\");\n/* harmony import */ var _assets_icons_youtube_svg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./assets/icons/youtube.svg */ \"./src/assets/icons/youtube.svg\");\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _take_action_hbs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./take-action.hbs */ \"./src/take-action.hbs\");\n/* harmony import */ var _take_action_hbs__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_take_action_hbs__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./assets/styles/app.scss */ \"./src/assets/styles/app.scss\");\n/* harmony import */ var _assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_assets_styles_app_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _assets_images_herd_of_zebras_on_body_of_water_with_grass_640x426_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg */ \"./src/assets/images/herd-of-zebras-on-body-of-water-with-grass-640x426.jpg\");\n/* harmony import */ var _assets_images_people_rallying_on_street_640x426_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/images/people-rallying-on-street-640x426.jpg */ \"./src/assets/images/people-rallying-on-street-640x426.jpg\");\n/* harmony import */ var _assets_images_animal_animal_photography_big_big_cat_640x456_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/images/animal-animal-photography-big-big-cat-640x456.jpg */ \"./src/assets/images/animal-animal-photography-big-big-cat-640x456.jpg\");\n/* harmony import */ var _assets_images_two_man_hiking_on_snow_mountain_1280x718_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/images/two-man-hiking-on-snow-mountain-1280x718.jpg */ \"./src/assets/images/two-man-hiking-on-snow-mountain-1280x718.jpg\");\n/* harmony import */ var _assets_images_burn_fog_forest_forest_fire_1280x720_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/images/burn-fog-forest-forest-fire-1280x720.jpg */ \"./src/assets/images/burn-fog-forest-forest-fire-1280x720.jpg\");\n/* harmony import */ var _assets_images_america_antelope_canyon_desktop_backgrounds_nature_1280x853_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg */ \"./src/assets/images/america-antelope-canyon-desktop-backgrounds-nature-1280x853.jpg\");\n/* harmony import */ var _assets_images_bird_s_eye_view_of_woodpile_1280x853_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/images/bird-s-eye-view-of-woodpile-1280x853.jpg */ \"./src/assets/images/bird-s-eye-view-of-woodpile-1280x853.jpg\");\n/* harmony import */ var _assets_images_tigress_1280x587_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./assets/images/tigress-1280x587.jpg */ \"./src/assets/images/tigress-1280x587.jpg\");\n/* harmony import */ var _assets_images_close_up_photo_of_plastic_bottle_2409022_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./assets/images/close-up-photo-of-plastic-bottle-2409022.jpg */ \"./src/assets/images/close-up-photo-of-plastic-bottle-2409022.jpg\");\n/* harmony import */ var _assets_images_icebergs_1280x960_jpg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/images/icebergs-1280x960.jpg */ \"./src/assets/images/icebergs-1280x960.jpg\");\n/* harmony import */ var _assets_images_bamboo_tree_during_daytime_1280x1704_jpg__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./assets/images/bamboo-tree-during-daytime-1280x1704.jpg */ \"./src/assets/images/bamboo-tree-during-daytime-1280x1704.jpg\");\n/* harmony import */ var _assets_images_black_chimpanzee_smiling_1280x1769_jpg__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./assets/images/black-chimpanzee-smiling-1280x1769.jpg */ \"./src/assets/images/black-chimpanzee-smiling-1280x1769.jpg\");\n/* harmony import */ var _assets_images_brown_kangaroo_near_tree_1280x1828_jpg__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./assets/images/brown-kangaroo-near-tree-1280x1828.jpg */ \"./src/assets/images/brown-kangaroo-near-tree-1280x1828.jpg\");\n/* harmony import */ var _assets_images_man_with_rifle_1280x1923_jpg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./assets/images/man-with-rifle-1280x1923.jpg */ \"./src/assets/images/man-with-rifle-1280x1923.jpg\");\n/* harmony import */ var _assets_images_sand_desert_yellow_orange_1920x1022_jpg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./assets/images/sand-desert-yellow-orange-1920x1022.jpg */ \"./src/assets/images/sand-desert-yellow-orange-1920x1022.jpg\");\n/* harmony import */ var _assets_images_gray_elephants_1920x1222_jpg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./assets/images/gray-elephants-1920x1222.jpg */ \"./src/assets/images/gray-elephants-1920x1222.jpg\");\n/* harmony import */ var _assets_images_beach_birds_calm_clouds_1920x1270_jpg__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./assets/images/beach-birds-calm-clouds-1920x1270.jpg */ \"./src/assets/images/beach-birds-calm-clouds-1920x1270.jpg\");\n/* harmony import */ var _assets_images_climate_road_landscape_people_1920x1280_jpg__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./assets/images/climate-road-landscape-people-1920x1280.jpg */ \"./src/assets/images/climate-road-landscape-people-1920x1280.jpg\");\n/* harmony import */ var _assets_images_five_zebra_in_pond_near_brown_and_black_birds_1920x1280_jpg__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./assets/images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg */ \"./src/assets/images/five-zebra-in-pond-near-brown-and-black-birds-1920x1280.jpg\");\n/* harmony import */ var _assets_images_leopard_lying_on_a_log_1920x1280_jpg__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./assets/images/leopard-lying-on-a-log-1920x1280.jpg */ \"./src/assets/images/leopard-lying-on-a-log-1920x1280.jpg\");\n/* harmony import */ var _assets_images_two_giraffe_standing_on_hill_1920x1280_jpg__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./assets/images/two-giraffe-standing-on-hill-1920x1280.jpg */ \"./src/assets/images/two-giraffe-standing-on-hill-1920x1280.jpg\");\n/* harmony import */ var _assets_images_wolf_1920x1280_jpg__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./assets/images/wolf-1920x1280.jpg */ \"./src/assets/images/wolf-1920x1280.jpg\");\n/* harmony import */ var _assets_images_view_of_elephant_in_water_1920x1309_jpg__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./assets/images/view-of-elephant-in-water-1920x1309.jpg */ \"./src/assets/images/view-of-elephant-in-water-1920x1309.jpg\");\n/* harmony import */ var _assets_icons_emoji_nature_24px_svg__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./assets/icons/emoji_nature-24px.svg */ \"./src/assets/icons/emoji_nature-24px.svg\");\n/* harmony import */ var _assets_icons_menu_24px_svg__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./assets/icons/menu-24px.svg */ \"./src/assets/icons/menu-24px.svg\");\n/* harmony import */ var _assets_icons_eye_24px_svg__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./assets/icons/eye-24px.svg */ \"./src/assets/icons/eye-24px.svg\");\n/* harmony import */ var _assets_icons_facebook_svg__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./assets/icons/facebook.svg */ \"./src/assets/icons/facebook.svg\");\n/* harmony import */ var _assets_icons_twitter_svg__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./assets/icons/twitter.svg */ \"./src/assets/icons/twitter.svg\");\n/* harmony import */ var _assets_icons_instagram_svg__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./assets/icons/instagram.svg */ \"./src/assets/icons/instagram.svg\");\n/* harmony import */ var _assets_icons_youtube_svg__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./assets/icons/youtube.svg */ \"./src/assets/icons/youtube.svg\");\n/* harmony import */ var _assets_icons_favorite_border_24px_svg__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./assets/icons/favorite_border-24px.svg */ \"./src/assets/icons/favorite_border-24px.svg\");\n// pages\r\n\r\n\r\n// styles\r\n\r\n\r\n\r\n\r\n// images and icons\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n// icons\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\ndocument.querySelector('[data-toggle]').addEventListener('click', function(e) {\r\n    document.querySelector('[data-menu]').classList.toggle('open');\r\n})\r\n\r\nvar mySwiper = new Swiper('.swiper-container', {\r\n    slidesPerView: 1,\r\n    spaceBetween: 10,\r\n    pagination: {\r\n        el: '.swiper-pagination',\r\n        clickable: true,\r\n    },\r\n    breakpoints: {\r\n        300: {\r\n            slidesPerView: 1,\r\n        },\r\n        500: {\r\n            slidesPerView: 2,\r\n        },\r\n        1200: {\r\n            slidesPerView: 3,\r\n        }\r\n    },    \r\n}\r\n);\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
@@ -593,7 +762,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _ass
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"<footer>\\r\\n    <div class=\\\"top\\\">\\r\\n        <div class=\\\"content\\\">\\r\\n            <h2>JOIN THE MOVEMENT!</h2>\\r\\n            <span>Get the Latest News & Updates</span>\\r\\n            <form action=\\\"\\\" class=\\\"row\\\">\\r\\n                <input type=\\\"text\\\" id=\\\"sub-email\\\" placeholder=\\\"Enter your email here\\\">\\r\\n                <input type=\\\"submit\\\" value=\\\"SUBSCRIBE\\\">\\r\\n            </form>\\r\\n        </div>\\r\\n    </div>    \\r\\n    <div class=\\\"bottom\\\">\\r\\n        <div class=\\\"bottom__container\\\">\\r\\n            <form action=\\\"\\\">\\r\\n                <h4 class=\\\"fw-6\\\">Contact Us</h4>\\r\\n                <p class=\\\"fs-08x\\\">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page.</p>\\r\\n                <input type=\\\"text\\\" placeholder=\\\"Name\\\">\\r\\n                <input type=\\\"email\\\" placeholder=\\\"Email\\\">\\r\\n                <input type=\\\"tel\\\" placeholder=\\\"Phone\\\">\\r\\n                <input type=\\\"submit\\\" value=\\\"SUBMIT\\\">\\r\\n            </form>\\r\\n            <div class=\\\"contacts\\\">\\r\\n                <div class=\\\"contacts__direct\\\">\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>ADDRESS</p>\\r\\n                        <p class=\\\"fs-08x\\\">500 Terry Francois St.<br>San Francisco, CA 94158</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>PHONE</p>\\r\\n                        <p class=\\\"fs-08x\\\">123-456-7890</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>EMAIL</p>\\r\\n                        <p class=\\\"fs-08x\\\">info@mysite.com</p>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"contacts__social\\\">\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/facebook.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Facebook</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/twitter.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Twitter</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/instagram.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Instagram</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images//youtube.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Youtube</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"row\\\">\\r\\n                    <span class=\\\"fs-08x\\\">© 2023 by Last Chance. Proudly created with Wix.com</span>\\r\\n                    <a href=\\\"#hero\\\" class=\\\"fs-08x\\\">Back to Top</a>\\r\\n                </div>\\r\\n            </div>\\r\\n        </div>\\r\\n    </div>\\r\\n</footer>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./src/partials/footer.hbs?");
+eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"<footer>\\r\\n    <div class=\\\"footer-top\\\">\\r\\n        <div class=\\\"wrapper\\\">\\r\\n            <h2>JOIN THE MOVEMENT!</h2>\\r\\n            <span>Get the Latest News & Updates</span>\\r\\n            <form action=\\\"\\\" class=\\\"footer-top__input\\\">\\r\\n                <input type=\\\"text\\\" id=\\\"sub-email\\\" placeholder=\\\"Enter your email here\\\">\\r\\n                <input type=\\\"submit\\\" value=\\\"SUBSCRIBE\\\">\\r\\n            </form>\\r\\n        </div>\\r\\n    </div>    \\r\\n    <div class=\\\"footer-bottom\\\">\\r\\n        <div class=\\\"container\\\">\\r\\n            <form action=\\\"\\\">\\r\\n                <h4 class=\\\"fw-6\\\">Contact Us</h4>\\r\\n                <p class=\\\"fs-08x\\\">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page.</p>\\r\\n                <input type=\\\"text\\\" placeholder=\\\"Name\\\">\\r\\n                <input type=\\\"email\\\" placeholder=\\\"Email\\\">\\r\\n                <input type=\\\"tel\\\" placeholder=\\\"Phone\\\">\\r\\n                <input type=\\\"submit\\\" value=\\\"SUBMIT\\\">\\r\\n            </form>\\r\\n            <div class=\\\"contacts\\\">\\r\\n                <div class=\\\"contacts__direct\\\">\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>ADDRESS</p>\\r\\n                        <p class=\\\"fs-08x\\\">500 Terry Francois St.<br>San Francisco, CA 94158</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>PHONE</p>\\r\\n                        <p class=\\\"fs-08x\\\">123-456-7890</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"contacts__box\\\">\\r\\n                        <p>EMAIL</p>\\r\\n                        <p class=\\\"fs-08x\\\">info@mysite.com</p>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"contacts__social\\\">\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/facebook.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Facebook</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/twitter.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Twitter</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images/instagram.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Instagram</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                    <div class=\\\"social__icon\\\">\\r\\n                        <a href=\\\"\\\">\\r\\n                            <img src=\\\"assets/images//youtube.svg\\\" alt=\\\"\\\">\\r\\n                            <span class=\\\"fs-08x\\\">Youtube</span>\\r\\n                        </a>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"row\\\">\\r\\n                    <span class=\\\"fs-08x\\\">© 2023 by Last Chance.</span>\\r\\n                    <a href=\\\"#hero\\\" class=\\\"fs-08x\\\">Back to Top</a>\\r\\n                </div>\\r\\n            </div>\\r\\n        </div>\\r\\n    </div>\\r\\n</footer>\\r\\n<script src=\\\"https://unpkg.com/swiper/js/swiper.min.js\\\"></script>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./src/partials/footer.hbs?");
+
+/***/ }),
+
+/***/ "./src/partials/head.hbs":
+/*!*******************************!*\
+  !*** ./src/partials/head.hbs ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {\n        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {\n          return parent[propertyName];\n        }\n        return undefined\n    };\n\n  return \"<!DOCTYPE html>\\r\\n<html lang=\\\"en\\\">\\r\\n<head>\\r\\n    <meta charset=\\\"UTF-8\\\">\\r\\n    <meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\">\\r\\n    <meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\">\\r\\n    <title>\"\n    + container.escapeExpression(container.lambda(((stack1 = ((stack1 = (depth0 != null ? lookupProperty(depth0,\"htmlWebpackPlugin\") : depth0)) != null ? lookupProperty(stack1,\"options\") : stack1)) != null ? lookupProperty(stack1,\"title\") : stack1), depth0))\n    + \"</title>\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link href=\\\"https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800,900&display=swap\\\" rel=\\\"stylesheet\\\">\\r\\n    <link rel=\\\"stylesheet\\\" href=\\\"https://unpkg.com/swiper/css/swiper.min.css\\\">\\r\\n</head>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./src/partials/head.hbs?");
 
 /***/ }),
 
@@ -604,7 +784,18 @@ eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/run
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"<header>\\r\\n    <a class=\\\"logo\\\" href=\\\"\\\" class=\\\"btn\\\">\\r\\n        <img src=\\\"assets/images/emoji_nature-24px.svg\\\" class=\\\"logo\\\" alt=\\\"Logo\\\">\\r\\n        <span>LAST CHANCE</span>\\r\\n    </a>\\r\\n    <nav class=\\\"btn-container\\\">\\r\\n        <div class=\\\"btn bkg1\\\">\\r\\n            <span>Donate Now</span>\\r\\n        </div>\\r\\n        <a href=\\\"\\\" class=\\\"btn bkg2\\\">\\r\\n            <span>Take Action</span>\\r\\n        </a>\\r\\n        <div class=\\\"btn bkg-dark\\\">\\r\\n            <span>Menu</span>\\r\\n            <img src=\\\"assets/images/menu-24px.svg\\\" class=\\\"white-svg\\\" alt=\\\"Menu button\\\">\\r\\n        </div>\\r\\n    </nav>\\r\\n</header>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./src/partials/header.hbs?");
+eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"<header>\\r\\n    <div class=\\\"top-nav\\\">\\r\\n        <div class=\\\"logo-container\\\">\\r\\n            <a class=\\\"logo\\\" href=\\\"\\\" class=\\\"btn\\\">\\r\\n                <img src=\\\"assets/images/emoji_nature-24px.svg\\\" class=\\\"logo\\\" alt=\\\"Logo\\\">\\r\\n                <span>LAST CHANCE</span>\\r\\n            </a>\\r\\n        </div>\\r\\n        <nav class=\\\"btn-container\\\">\\r\\n            <div class=\\\"btn bkg1 link--inactive\\\">\\r\\n                <span>Donate Now</span>\\r\\n            </div>\\r\\n            <a href=\\\"take-action.html\\\" class=\\\"btn bkg2\\\">\\r\\n                <span>Take Action</span>\\r\\n            </a>\\r\\n            <div class=\\\"btn bkg-dark menu\\\" data-toggle=\\\"menu\\\">\\r\\n                <span>Menu</span>\\r\\n                <img src=\\\"assets/images/menu-24px.svg\\\" class=\\\"white-svg\\\" alt=\\\"Menu button\\\">\\r\\n            </div>\\r\\n        </nav>\\r\\n    </div>\\r\\n    <nav class=\\\"nav-menu bkg-dark hidden\\\" data-menu>\\r\\n    <ul>\\r\\n        <li>\\r\\n            <a href=\\\"\\\" class=\\\"link--inactive\\\">About</a>\\r\\n        </li>\\r\\n        <li>\\r\\n            <a href=\\\"\\\" class=\\\"link--inactive\\\">What we do</a>\\r\\n        </li>\\r\\n        <li>\\r\\n            <a href=\\\"\\\" class=\\\"link--inactive\\\">Who we are</a>\\r\\n        </li>\\r\\n        <li>\\r\\n            <a href=\\\"\\\" class=\\\"link--inactive\\\">News</a>\\r\\n        </li>\\r\\n        <li>\\r\\n            <a href=\\\"\\\" class=\\\"link--inactive\\\">Contact</a>\\r\\n        </li>\\r\\n    </ul>\\r\\n</nav>\\r\\n</header>\\r\\n\\r\\n\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./src/partials/header.hbs?");
+
+/***/ }),
+
+/***/ "./src/take-action.hbs":
+/*!*****************************!*\
+  !*** ./src/take-action.hbs ***!
+  \*****************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var Handlebars = __webpack_require__(/*! ../node_modules/handlebars/runtime.js */ \"./node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    var stack1;\n\n  return \"<!-- https://www.wix.com/demone2/wildlife-con/take-action -->\\r\\n\"\n    + ((stack1 = container.invokePartial(__webpack_require__(/*! ./partials/head.hbs */ \"./src/partials/head.hbs\"),depth0,{\"name\":\"partials/head\",\"data\":data,\"helpers\":helpers,\"partials\":partials,\"decorators\":container.decorators})) != null ? stack1 : \"\")\n    + \"<body id=\\\"take-action\\\">\\r\\n\"\n    + ((stack1 = container.invokePartial(__webpack_require__(/*! ./partials/header.hbs */ \"./src/partials/header.hbs\"),depth0,{\"name\":\"partials/header\",\"data\":data,\"indent\":\"    \",\"helpers\":helpers,\"partials\":partials,\"decorators\":container.decorators})) != null ? stack1 : \"\")\n    + \"    <main>\\r\\n        <section class=\\\"hero\\\" id=\\\"hero\\\" data-type=\\\"background\\\" data-speed=\\\"5\\\">\\r\\n            <h1 class=\\\"hero__heading\\\">GET INVOLVED<br><span class=\\\"accent1\\\">TODAY!</span></h1>\\r\\n            <p class=\\\"hero__par\\\">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>\\r\\n        </section>\\r\\n        <section class=\\\"projects\\\">\\r\\n            <div class=\\\"projects__container\\\">\\r\\n                <div class=\\\"projects__wrapper\\\">\\r\\n                    <h2>UPCOMING PROJECTS.</h2>\\r\\n                    <div>\\r\\n                        <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page.</p>\\r\\n                        <p>This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide.</p>\\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"projects__wrapper\\\">\\r\\n                    <div class=\\\"projects__tile\\\">\\r\\n                        <h3>Work with Elephants</h3>\\r\\n                        <span>Southeast Asia</span>\\r\\n                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"projects__tile\\\">\\r\\n                        <h3>Local Animal Rescue</h3>\\r\\n                        <span>Central America</span>\\r\\n                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>\\r\\n                    </div>\\r\\n                    <div class=\\\"projects__tile\\\">\\r\\n                        <h3>Ocean Cleanups</h3>\\r\\n                        <span>North America</span>\\r\\n                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>\\r\\n                    </div>\\r\\n                </div>\\r\\n            </div>\\r\\n        </section>\\r\\n        <section class=\\\"signup\\\">\\r\\n            <form class=\\\"signup__container\\\" action=\\\"post\\\">\\r\\n                <div class=\\\"signup__wrapper\\\">\\r\\n                    <h2>MAKE AN IMPACT.</h2>\\r\\n                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>\\r\\n                </div>\\r\\n                <div class=\\\"signup__wrapper\\\">\\r\\n                    <div class=\\\"signup__content\\\">\\r\\n                        <input type=\\\"text\\\" placeholder=\\\"Name\\\" id=\\\"name\\\">\\r\\n                        <input type=\\\"email\\\" placeholder=\\\"Email\\\" id=\\\"email\\\">\\r\\n                        <input type=\\\"text\\\" placeholder=\\\"Country\\\" id=\\\"country\\\">\\r\\n                    </div>\\r\\n                    <div class=\\\"signup__content\\\">\\r\\n                        <span>How can you help?</span>\\r\\n                        <input type=\\\"radio\\\" name=\\\"one-time\\\" id=\\\"one-time\\\">\\r\\n                        <label for=\\\"one-time\\\">\\r\\n                            <div class=\\\"checkmark\\\"></div>\\r\\n                            <span>One-time volunteer</span>\\r\\n                        </label>\\r\\n                        <input type=\\\"radio\\\" name=\\\"one-time\\\" id=\\\"join\\\">\\r\\n                        <label for=\\\"join\\\">\\r\\n                            <div class=\\\"checkmark\\\"></div>\\r\\n                            <span>Join a volunteer program</span>\\r\\n                        </label>\\r\\n                        <input type=\\\"radio\\\" name=\\\"one-time\\\" id=\\\"host\\\">\\r\\n                        <label for=\\\"host\\\">\\r\\n                            <div class=\\\"checkmark\\\"></div>\\r\\n                            <span>Host an event</span>\\r\\n                        </label>                    \\r\\n                    </div>\\r\\n                </div>\\r\\n                <div class=\\\"signup__content\\\">\\r\\n                    <input type=\\\"text\\\" placeholder=\\\"Tell us which project you’re interested in\\\" id=\\\"\\\">\\r\\n                    <input type=\\\"submit\\\" value=\\\"SUBMIT\\\">\\r\\n                </div>\\r\\n            </form>\\r\\n        </section>\\r\\n    </main>\\r\\n\"\n    + ((stack1 = container.invokePartial(__webpack_require__(/*! ./partials/footer.hbs */ \"./src/partials/footer.hbs\"),depth0,{\"name\":\"partials/footer\",\"data\":data,\"indent\":\"    \",\"helpers\":helpers,\"partials\":partials,\"decorators\":container.decorators})) != null ? stack1 : \"\")\n    + \"</body>\\r\\n<script src=\\\"script.js\\\"></script>\\r\\n</html>\";\n},\"usePartial\":true,\"useData\":true});\n\n//# sourceURL=webpack:///./src/take-action.hbs?");
 
 /***/ })
 

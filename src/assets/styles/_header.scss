@@ -1,54 +1,174 @@
 header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    background-color: var(--light);
-    height: var(--header-height);
     position: fixed;
-    width: 100%;
     top: 0;
+    width: 100%;
+    // max-width: 100vw;
     z-index: 2;
+    height: 77px;
 
-    a.logo {
-        text-decoration: none;
-        color:inherit;
-        font-size: 16px;
+    .top-nav {
+        @extend %flex-row;
+        justify-content: space-between;
+        align-items: center;
+        background-color: $light;
+        height: $header-height;
+        font-size: .8rem;
         font-weight: 600;
 
-        span:hover {
-            color: var(--color1);
+        .logo-container {
+            flex-grow: 1;
+            height: 100%;
+        }
+
+        a.logo {
+            text-decoration: none;
+            color:inherit;
+            font-size: 16px;
+            font-weight: 600;
+    
+            span {
+                @extend %hover-highlight;;
+            }        
+        }
+
+        .btn-container {
+            display: flex;
+            flex-direction: row;
+            height: 100%;
+    
+            .btn {
+                @extend %hover-bkg-dark;
+                span {
+                    margin:10px;
+                }
+            }
+    
+            .menu {
+                @extend %hover-highlight;
+            }
+        }
+
+        .btn {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 150px;
+        }
+
+        img {
+            vertical-align: middle;
+            margin: 10px;
+        }
+    
+        img.logo{
+            height: 48px;
         }
     }
 
-    .btn-container {
-        display: flex;
-        flex-direction: row;
-        height: 100%;
+    .nav-menu {
+        transition: .3s ease-in-out;
 
-        .btn:hover {
-            background-color: var(--dark);
+        height: 0;
+        
+        overflow:hidden;
+    
+        ul {
+            padding-left: 0;
+            list-style: none;
+            display: flex;
+            justify-content: space-evenly;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    
+        li {
+            display: flex;
         }
 
-        .btn:last-child:hover {
-            color: var(--color1)
+        a {
+            text-decoration: none;
+            color: black;
+            font-size: 1.1rem;
+            padding: 1em;
+            @extend %hover-highlight;
+            font-weight: 200;
+            &:hover {
+                font-weight: 400;
+            }   
+        }
+    
+        &.open {
+            height: 4.1em;
+            width: 100%;
+    
+            a {
+                color: inherit;
+            }
         }
     }
 
-    .btn {
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-width: 150px;
+    @media (max-width: $break-point3) {
+        a.logo {
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            span {
+                display: none;
+            }
+        }
+
+        .nav-menu a {padding: 1em .5em;}
     }
 
-    img {
-        vertical-align: middle;
-        margin: 10px;
+    @media (max-width:$break-point4) {
+        .top-nav {
+            flex-direction: column;
+        
+            .btn-container {
+                width: 100%;
+
+                .btn {
+                    flex: 1 1 30%;
+                    min-width: unset;
+                    &.menu span{display: none;}
+                }
+
+                .menu {
+                    z-index: 4;
+                }
+            }
+
+            .logo-container {display: none;}
+        }
+
+        .nav-menu {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 0;
+            opacity: .95;
+            border-radius: 0 0 0 100%;
+            &> ul {
+                padding-top: 2em;
+                display: flex;
+                flex-direction: column;
+                
+
+                li {
+                    text-align: center;
+                    a {
+                        width: 100%;
+                    }
+                }
+            }
+
+            &.open {
+                height: 100vh;
+                border-radius: 0;
+            }
+        }
+            
     }
 
-    img.logo{
-        height: 48px;
-    }
 }

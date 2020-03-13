@@ -1,58 +1,199 @@
 <!-- https://www.wix.com/demone2/wildlife-con/take-action -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>TAKE ACTION</title>
-</head>
-<body>
-    <header></header>
+    <title>Take action</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+<link href="assets/styles/app.css" rel="stylesheet"></head><body id="take-action">
+    <header>
+        <div class="top-nav">
+            <div class="logo-container">
+                <a class="logo" href="" class="btn">
+                    <img src="assets/images/emoji_nature-24px.svg" class="logo" alt="Logo">
+                    <span>LAST CHANCE</span>
+                </a>
+            </div>
+            <nav class="btn-container">
+                <div class="btn bkg1 link--inactive">
+                    <span>Donate Now</span>
+                </div>
+                <a href="take-action.html" class="btn bkg2">
+                    <span>Take Action</span>
+                </a>
+                <div class="btn bkg-dark menu" data-toggle="menu">
+                    <span>Menu</span>
+                    <img src="assets/images/menu-24px.svg" class="white-svg" alt="Menu button">
+                </div>
+            </nav>
+        </div>
+        <nav class="nav-menu bkg-dark hidden" data-menu>
+        <ul>
+            <li>
+                <a href="" class="link--inactive">About</a>
+            </li>
+            <li>
+                <a href="" class="link--inactive">What we do</a>
+            </li>
+            <li>
+                <a href="" class="link--inactive">Who we are</a>
+            </li>
+            <li>
+                <a href="" class="link--inactive">News</a>
+            </li>
+            <li>
+                <a href="" class="link--inactive">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    </header>
+    
     <main>
-        <section class="hero">
-            <h1>GET INVOLVED<br><span class="accent1">TODAY!</span></h1>
-            <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+        <section class="hero" id="hero" data-type="background" data-speed="5">
+            <h1 class="hero__heading">GET INVOLVED<br><span class="accent1">TODAY!</span></h1>
+            <p class="hero__par">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
         </section>
-        <section class="projects"> <!---->
-            <h2></h2>
-            <p></p>
-            <div class="card">
-                <h3>Work with Elephants</h3>
-                <span>Southeast Asia</span>
-                <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
-            </div>
-            <div class="card">
-                <h3>Local Animal Rescue</h3>
-                <span>Central America</span>
-                <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
-            </div>
-            <div class="card">
-                <h3>Ocean Cleanups</h3>
-                <span>North America</span>
-                <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+        <section class="projects">
+            <div class="projects__container">
+                <div class="projects__wrapper">
+                    <h2>UPCOMING PROJECTS.</h2>
+                    <div>
+                        <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page.</p>
+                        <p>This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide.</p>
+                    </div>
+                </div>
+                <div class="projects__wrapper">
+                    <div class="projects__tile">
+                        <h3>Work with Elephants</h3>
+                        <span>Southeast Asia</span>
+                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                    </div>
+                    <div class="projects__tile">
+                        <h3>Local Animal Rescue</h3>
+                        <span>Central America</span>
+                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                    </div>
+                    <div class="projects__tile">
+                        <h3>Ocean Cleanups</h3>
+                        <span>North America</span>
+                        <p>I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                    </div>
+                </div>
             </div>
         </section>
-        <section class="cont-form">
-            <h2>MAKE AN IMPACT.</h2>
-            <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
-            <form action="post">
-                <div class="prsn-details">
-                    <input type="text" name="name" id="name">
-                    <input type="email" name="email" id="email">
-                    <input type="text" name="country" id="country">
+        <section class="signup">
+            <form class="signup__container" action="post">
+                <div class="signup__wrapper">
+                    <h2>MAKE AN IMPACT.</h2>
+                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
                 </div>
-                <span>How can you help?</span>
-                <div class="btns-radio">
-                    <input type="radio" name="one-time" id="one-time"><label for="one-time">One-time volunteer</label>
-                    <input type="radio" name="one-time" id="join"><label for="join">Join a volunteer program</label>
-                    <input type="radio" name="one-time" id="host"><label for="host">Host an event</label>                    
+                <div class="signup__wrapper">
+                    <div class="signup__content">
+                        <input type="text" placeholder="Name" id="name">
+                        <input type="email" placeholder="Email" id="email">
+                        <input type="text" placeholder="Country" id="country">
+                    </div>
+                    <div class="signup__content">
+                        <span>How can you help?</span>
+                        <input type="radio" name="one-time" id="one-time">
+                        <label for="one-time">
+                            <div class="checkmark"></div>
+                            <span>One-time volunteer</span>
+                        </label>
+                        <input type="radio" name="one-time" id="join">
+                        <label for="join">
+                            <div class="checkmark"></div>
+                            <span>Join a volunteer program</span>
+                        </label>
+                        <input type="radio" name="one-time" id="host">
+                        <label for="host">
+                            <div class="checkmark"></div>
+                            <span>Host an event</span>
+                        </label>                    
+                    </div>
                 </div>
-                <input type="text" name="" id="">
+                <div class="signup__content">
+                    <input type="text" placeholder="Tell us which project you’re interested in" id="">
+                    <input type="submit" value="SUBMIT">
+                </div>
             </form>
         </section>
     </main>
-    <footer></footer>
-</body>
+    <footer>
+        <div class="footer-top">
+            <div class="wrapper">
+                <h2>JOIN THE MOVEMENT!</h2>
+                <span>Get the Latest News & Updates</span>
+                <form action="" class="footer-top__input">
+                    <input type="text" id="sub-email" placeholder="Enter your email here">
+                    <input type="submit" value="SUBSCRIBE">
+                </form>
+            </div>
+        </div>    
+        <div class="footer-bottom">
+            <div class="container">
+                <form action="">
+                    <h4 class="fw-6">Contact Us</h4>
+                    <p class="fs-08x">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page.</p>
+                    <input type="text" placeholder="Name">
+                    <input type="email" placeholder="Email">
+                    <input type="tel" placeholder="Phone">
+                    <input type="submit" value="SUBMIT">
+                </form>
+                <div class="contacts">
+                    <div class="contacts__direct">
+                        <div class="contacts__box">
+                            <p>ADDRESS</p>
+                            <p class="fs-08x">500 Terry Francois St.<br>San Francisco, CA 94158</p>
+                        </div>
+                        <div class="contacts__box">
+                            <p>PHONE</p>
+                            <p class="fs-08x">123-456-7890</p>
+                        </div>
+                        <div class="contacts__box">
+                            <p>EMAIL</p>
+                            <p class="fs-08x">info@mysite.com</p>
+                        </div>
+                    </div>
+                    <div class="contacts__social">
+                        <div class="social__icon">
+                            <a href="">
+                                <img src="assets/images/facebook.svg" alt="">
+                                <span class="fs-08x">Facebook</span>
+                            </a>
+                        </div>
+                        <div class="social__icon">
+                            <a href="">
+                                <img src="assets/images/twitter.svg" alt="">
+                                <span class="fs-08x">Twitter</span>
+                            </a>
+                        </div>
+                        <div class="social__icon">
+                            <a href="">
+                                <img src="assets/images/instagram.svg" alt="">
+                                <span class="fs-08x">Instagram</span>
+                            </a>
+                        </div>
+                        <div class="social__icon">
+                            <a href="">
+                                <img src="assets/images//youtube.svg" alt="">
+                                <span class="fs-08x">Youtube</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <span class="fs-08x">© 2023 by Last Chance.</span>
+                        <a href="#hero" class="fs-08x">Back to Top</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://unpkg.com/swiper/js/swiper.min.js"></script><script type="text/javascript" src="main.js"></script></body>
+<script src="script.js"></script>
 </html>

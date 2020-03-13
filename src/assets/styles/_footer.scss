@@ -1,0 +1,183 @@
+.footer-top {
+    background-color: $color1;
+    display: flex;
+    justify-content: center;
+    padding: 0 50px;
+
+    h2 {
+        color: $light;
+        font-weight: 600;
+        align-self: center;
+    }
+
+    span {
+        color: $light;
+        font-weight: 600;
+        align-self: center;
+    }
+
+    &__input {
+        bottom: 0;
+        transform: translateY(50%);
+        @extend %flex-row;
+
+        input[type=text] {
+            flex: 1 1 300px;
+            background-color: $dark;
+            color: $color1;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            border: none;
+            padding: 30px;
+            outline: none;
+            border: 1px solid $dark;
+
+            &::placeholder{
+                color: $light;
+                font-family: 'Poppins', sans-serif;
+                font-weight: 600;
+            }
+        }
+
+        input[type=submit] {
+            width: 190px;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            padding: 30px;
+            background-color: $light;
+            border: 1px solid $dark;
+            outline: none;
+            cursor: pointer;
+            transition: .3s ease-in-out;
+
+            &:hover{
+                background-color: $color2;
+                color: $light;
+            }
+        }
+    }
+
+    .wrapper {
+        flex: 1 1 900px;
+        max-width: 900px;
+        @extend %flex-col;
+
+        
+    }
+
+    @media (max-width: $break-point3) {
+        
+        &__input {
+        flex-direction: column;
+        align-items: stretch;}
+        
+        input[type=submit] {
+            flex-grow: 1;
+            width: unset;
+            padding: 15px;
+        }
+
+        input[type=text] {
+            flex-basis: unset;
+            padding: 15px;
+        }
+
+    }
+}
+
+.footer-bottom {
+    background-color: $light;
+    padding: 70px 0;
+    @extend %flex-row;  
+    
+    .container {
+        @extend %flex-row;
+        flex-grow: 1;
+        align-items: stretch;
+        justify-content: space-evenly;
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+
+    form {
+        max-width: 500px;
+        margin: 40px;
+        @extend %flex-col;
+
+        input[type=text], input[type=email], input[type=tel] {
+            @extend %form-input-light;
+        }
+
+        input[type=submit] {
+            @extend %form-submit-light;
+        }
+    }
+
+    .contacts {
+        padding-top: 2rem;
+        margin: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        max-width: 100%;
+
+        .contacts__social {
+            @extend %flex-row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            .social__icon {
+                border: 1px solid black;
+                height: 100px;
+                width: 100px;
+                @extend %flex-row;
+                justify-content: center;
+                margin: 1em;
+
+                img {
+                    height: 50px
+                }
+
+                a {
+                    @extend %flex-col;
+                    align-items: center;
+                    text-decoration: none;
+                    color:inherit;
+                    transition: .3s ease-in-out;
+
+                    &:hover {
+                        color: $color1;
+                    }
+                }
+            }
+        }
+
+        .contacts__direct{
+            @extend %flex-row;
+            justify-content: space-between;
+            align-items: flex-start;
+
+            .contacts__box {
+                margin: 1em;
+            }
+        }
+
+        .row {
+            justify-content: space-between;
+
+            a {
+                color: inherit;
+            }
+        }
+    }
+
+    @media (max-width: $break-point1) {
+        .contacts, form {
+            margin: 15px;
+        }
+    }
+
+    
+
+}

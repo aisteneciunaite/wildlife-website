@@ -1,133 +1,125 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>HOME</title>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/styles/app.css">
-    <!-- https://www.wix.com/demone2/wildlife-con -->
-    <!-- Mobile https://www.wix.com/website-template/view/html/2500 -->
-</head>
+{{> partials/head}}
 <body id="index">
 {{> partials/header}}
 <main>
-    <section class="hero parallax" id="hero" data-type="background" data-speed="5">
-        <h1>PROTECT<br>OUR<span class="accent1"> WILDLIFE</span></h1>
-        <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
-        <a href="" class="btn bkg-dark">GET INVOLVED</a>
+    <section class="hero" id="hero" data-type="background" data-speed="5">
+        <h1 class="hero__heading">PROTECT<br>OUR<span class="accent1"> WILDLIFE</span></h1>
+        <p class="hero__par">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+        <a href="" class="hero__btn btn bkg-dark">GET INVOLVED</a>
     </section>
     <section class="stats">
-        <div class="stats__card">
-            <p class="fs-2x"><span class="fs-7x">40K</span><br>Endangered Species</p>
-        </div>
-        <div class="stats__card">
-            <p class="fs-2x"><span class="fs-7x">800</span><br>Volunteers</p>
-        </div>
-        <div class="stats__card">
-            <p class="fs-2x"><span class="fs-7x">140</span><br>Conservation Programs</p>
-        </div>
-        <div class="stats__card">
-            <p class="fs-2x"><span class="fs-7x">1</span><br>Earth for Us to Protect</p>
+        <div class="stats__wrapper">
+            <div class="stats__tile">
+                <p class="fs-2x"><span class="fs-xlg">40K</span><br>Endangered Species</p>
+            </div>
+            <div class="stats__tile">
+                <p class="fs-2x"><span class="fs-xlg">800</span><br>Volunteers</p>
+            </div>
+            <div class="stats__tile">
+                <p class="fs-2x"><span class="fs-xlg">140</span><br>Conservation Programs</p>
+            </div>
+            <div class="stats__tile">
+                <p class="fs-2x"><span class="fs-xlg">1</span><br>Earth for Us to Protect</p>
+            </div>
         </div>
     </section>
-    <section class="articles2">
-        <div class="articles2__background1"></div>
-        <div class="articles2__background2"></div>
-        <div class="articles2__background3"></div>
-        <article class="articles2__tile1 bkg-dark">
-            <div>
+    <section class="articles">
+        <div class="articles__background articles__background--1"></div>
+        <div class="articles__background articles__background--2"></div>
+        <div class="articles__background articles__background--3"></div>
+        <div class="articles__tile articles__tile--1 bkg-dark">
+            <article>
                 <h3>About Last Chance</h3>
                 <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>
                 <a href="" class="btn-link-light">Learn More</a>
-            </div>
-        </article>
-        <article class="articles2__tile2 bkg3">
-            <div>
+            </article>
+        </div>
+        <div class="articles__tile articles__tile--2 bkg3">
+            <article>
                 <h3>Upcoming Projects to Fund</h3>
                 <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>
                 <a href="" class="btn-link-light">Support us</a>
-            </div>
-        </article>
-        <article class="bkg2 articles2__tile5">
-            <div>
+            </article>
+        </div>
+        <div class="bkg2 articles__tile articles__tile--5">
+            <article>
                 <h3>All the Latest Updates</h3>
                 <p>I'm a paragraph. Click here to add your own text and edit me. click “Edit Text” or double click me.</p>
                 <a href="" class="btn-link-light">Read Now</a>
-            </div>
-        </article>
-        <article class="wide bkg1 articles2__tile3">
-            <div>
+            </article>
+        </div>
+        <div class="bkg1 articles__tile articles__tile--3">
+            <article class="wide">
                 <h2>HOW YOU CAN HELP</h2>
                 <div class="row">
                     <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content.</p>
                     <a href="" class="btn-link-light">Act Now</a>
                 </div>
-            </div>
-        </article>
-        <article class="bkg-dark articles2__tile4">
-            <div>
+            </article>
+        </div>
+        <div class="bkg-dark articles__tile articles__tile--4">
+            <article>
                 <h3>Get to Know Us</h3>
                 <p>I'm a paragraph. Click here to add your own text and edit me. Just click “Edit Text”.</p>
                 <a href="" class="btn-link-light">Our Team</a>
-            </div>
-        </article>
+            </article>
+        </div>
 </section>
     <section class="news">
-        <div class="col">
-            <h3 class="fw-8">LATEST NEWS.</h3>
-            <div class="row">
-                <div class="news__card">
-                    <div class="news__card__content">
-                        <h5 class="fw-8">Earth Hour: What You Need to Know</h5>
-                        <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>
+        <div class="news__container ">
+            <h3>LATEST NEWS.</h3>
+            <div class="swiper-container">
+                <div class="news__wrapper swiper-wrapper">
+                    <div class="news__card swiper-slide">
+                        <div class="news__card__content">
+                            <h5>Earth Hour: What You Need to Know</h5>
+                            <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>
+                        </div>
+                        <div class="news__card__footer">
+                            <div class="footer__content">
+                                <span class="views">4</span>
+                                <span class="comment">Write a comment</span>
+                                <div class="like">
+                                    <span>4</span>
+                                    <img src="./assets/images/favorite_border-24px.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="news__card__footer">
-                        <div class="footer__content">
-                            <span class="views">4</span>
-                            <span class="comment">Write a comment</span>
-                            <div class="like">
-                                <span>4</span>
-                                <img src="./assets/images/favorite_border-24px.svg" alt="">
+                    <div class="news__card swiper-slide">
+                        <img src="./assets/images/people-rallying-on-street-640x426.jpg" alt="">
+                        <div class="news__card__content">
+                            <h5>Youth March for Climate …</h5>
+                        </div>
+                        <div class="news__card__footer">
+                            <div class="footer__content">
+                                <span class="views">4</span>
+                                <span class="comment">Write a comment</span>
+                                <div class="like">
+                                    <span>4</span>
+                                    <img src="./assets/images/favorite_border-24px.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news__card swiper-slide">
+                        <div class="news__card__content">
+                            <h5>Living Your Best Sustainable Life</h5>
+                            <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>
+                        </div>
+                        <div class="news__card__footer">
+                            <div class="footer__content">
+                                <span class="views">4</span>
+                                <span class="comment">Write a comment</span>
+                                <div class="like">
+                                    <span>4</span>
+                                    <img src="./assets/images/favorite_border-24px.svg" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="news__card">
-                    <img src="./assets/images/protest_363x241.webp" alt="">
-                    <div class="news__card__content">
-                        <h5 class="fw-8">Youth March for Climate …</h5>
-                    </div>
-                    <div class="news__card__footer">
-                        <div class="footer__content">
-                            <span class="views">4</span>
-                            <span class="comment">Write a comment</span>
-                            <div class="like">
-                                <span>4</span>
-                                <img src="./assets/images/favorite_border-24px.svg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="news__card">
-                    <div class="news__card__content">
-                        <h5 class="fw-8">Living Your Best Sustainable Life</h5>
-                        <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to contin...</p>
-                    </div>
-                    <div class="news__card__footer">
-                        <div class="footer__content">
-                            <span class="views">4</span>
-                            <span class="comment">Write a comment</span>
-                            <div class="like">
-                                <span>4</span>
-                                <img src="./assets/images/favorite_border-24px.svg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="swiper-pagination"></div>
             </div>
             <a href="" class="btn-link-dark">View more</a>
         </div>

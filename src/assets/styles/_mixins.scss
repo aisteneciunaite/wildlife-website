@@ -1,2 +1,7 @@
 // elements and styles common to several pages, like buttons, radio buttons, ect...
 
+@mixin box-spacing ($width) {
+    &:not(:first-child) {
+        margin-left: $width;
+    }
+}

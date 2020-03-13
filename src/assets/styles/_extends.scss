@@ -9,6 +9,24 @@
     flex-direction: column;
 }
 
+%flex-cc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+%link-inactive {
+    &.link--inactive:hover {
+        color:grey;
+        cursor: not-allowed;
+
+        span {
+            color: inherit;
+            cursor: inherit;
+        }
+    }
+}
+
 %link-button {
     display: flex;
     flex-shrink: 0;
@@ -21,25 +39,135 @@
     transition: .3s ease-in-out;
 }
 
+%hover-bkg-1 {
+    transition: .3s ease-in-out;
+    &:hover {
+        background-color: $color1;
+    }
+
+    @extend %link-inactive;
+}
+
+%hover-bkg-dark {
+    transition: .3s ease-in-out;
+    &:hover {
+        background-color: $dark;
+    }
+
+    @extend %link-inactive;
+}
+
+%hover-highlight {
+    transition: color .3s ease-in-out;
+    &:hover {
+        color: $color1;
+    }
+
+    @extend %link-inactive;
+}
+
+
+
+%form-input-light {
+    padding: 1em;
+    margin-bottom: 1em;
+    border-color: transparent transparent black transparent;
+    border-width: 1px;
+    outline: none;
+    &:hover {
+        border-bottom-color: $color1;
+    }
+}
+
+%form-submit-light {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    align-self: flex-end;
+    transition: .3s ease-in-out;
+    cursor: pointer;
+    &:hover {
+        color: $color1;
+    }
+}
+
+%custom-radio {
+    input[type=radio] {
+        opacity: 0;                 
+    }
+
+    input:checked+label .checkmark{
+        border-color: transparent;
+
+        &:after
+        {opacity: 1}
+    }
+
+    label {
+        cursor: pointer;
+        position: relative;
+        padding-left: 1.5em;
+
+        span {
+            vertical-align: middle;
+        }
+
+        &:hover {
+            .checkmark{border-color: transparent;}
+        }
+
+        .checkmark {
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            width: .8em;
+            height: .8em;
+            border: 2px solid $color1;
+            border-radius: 50%;
+
+            
+
+            &:after {
+                content: '';
+                opacity: 0;
+                position: absolute;
+                width: 80%;
+                height: 80%;
+                background-color: black;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                margin: auto;
+                border-radius: 50%;
+            }
+        }
+
+    }
+   
+}
 
 .btn-link-light {
     @extend %link-button;
-    border: 1px solid var(--light);
-    color: var(--light);
+    border: 1px solid $light;
+    color: $light;
     
     &:hover {
-        background-color: var(--light);
-        color: var(--dark);
+        background-color: $light;
+        color: $dark;
     }  
 }
 
 .btn-link-dark {
     @extend %link-button;
-    border: 1px solid var(--dark);
-    color: var(--dark);
+    border: 1px solid $dark;
+    color: $dark;
 
     &:hover {
-        background-color: var(--dark);
-        color: var(--light);
+        background-color: $dark;
+        color: $light;
     }
 }
+

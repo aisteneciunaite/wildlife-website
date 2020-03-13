@@ -2,6 +2,30 @@ const path = require('path');
 const webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const autoprefixer = require("autoprefixer");
+
+const _module = {
+  rules: [
+      {
+        test: /\.css$/,
+        exclude: /node_modules/,
+        use: [
+          MiniCssExtractPlugin.loader,
+          "css-loader",
+          "postcss-loader"
+        ]
+      },
+    plugins = [
+      new webpack.LoaderOptionsPlugin({
+        options: {
+          postcss: [
+            autoprefixer()
+          ]
+        }
+      })
+    ]
+  ]
+}
 
 module.exports = {
   entry: './src/index.js',
@@ -41,13 +65,18 @@ module.exports = {
     }),
     new webpack.LoaderOptionsPlugin({
       options: {
-        handlebarsLoader: {}
+        handlebarsLoader: {},
       }
     }),
     new HtmlWebpackPlugin({
-      title: 'index',
+      title: 'Home',
       filename: 'index.html',
       template: './src/index.hbs'
+    }),
+    new HtmlWebpackPlugin({
+      title: 'Take action',
+      filename: 'take-action.html',
+      template: './src/take-action.hbs'
     }),
   ]
 };

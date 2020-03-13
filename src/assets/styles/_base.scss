@@ -1,19 +1,11 @@
 // brand colors, layouts and styles common to several pages
 
-:root {
-    --color1:rgba(241, 86, 42, 1);
-    --color2: rgba(248, 152, 37, 1);
-    --color3: rgba(126, 182, 228, 1);
-    --dark: rgba(0, 0, 0, 1);
-    --light: rgba(255, 255, 255, 1);
-}
-
-.accent1 {
-    color: var(--color1);
-}
 
 body {
-    --header-height: 77px;
+    max-width: 100vw;
+}
+.accent1 {
+    color: $color1;
 }
 
 .btn {
@@ -24,32 +16,31 @@ body {
 }
 
 .bkg1 {
-    background-color: var(--color1);
-    color: var(--light);
+    background-color: $color1;
+    color: $light;
 }
 
 .bkg2 {
-    background-color: var(--color2);
-    color: var(--light);
+    background-color: $color2;
+    color: $light;
 }
 
 .bkg3 {
-    background-color: var(--color3);
-    color: var(--light);
+    background-color: $color3;
+    color: $light;
 }
 
 .bkg-dark {
-    background-color: var(--dark);
-    color: var(--light);
+    background-color: $dark;
+    color: $light;
 }
 
 .white-svg {
-    filter:invert(100%) sepia(100%) saturate(0%) hue-rotate(347deg) brightness(101%) contrast(108%)
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(347deg) brightness(101%) contrast(108%);
 }
 
 body {
-    background-color: rgb(226, 230, 233);
-    padding-top: var(--header-height);
+    padding-top: $header-height;
     margin: 0;
 }
 
@@ -59,4 +50,13 @@ body {
 
 .row {
     @extend %flex-row;
+}
+
+.swiper-container {
+    width: 950px;
+    max-width: 100vw;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: $color1;
 }
